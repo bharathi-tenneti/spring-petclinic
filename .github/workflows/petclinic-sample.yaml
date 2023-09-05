@@ -1,4 +1,4 @@
-name: OpenShift Pet Clinic Workflow
+name: quay Pet Clinic Workflow
 on: [ push, workflow_dispatch ]
 
 env:
